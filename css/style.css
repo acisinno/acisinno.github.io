@@ -1,0 +1,16 @@
+body {
+	background: url("../pic/pic01.png") no-repeat center fixed;
+	background-size: cover;
+}
+
+.blue {
+	font-size: (50pt)
+	color: (blue)
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
